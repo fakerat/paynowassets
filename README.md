@@ -1,3 +1,3 @@
 # paynow assets
 Assets for paynow button
-Graphically designed vector logos (.svg) for embedding in websites using paynow payments gateway 
+graphically designed vector logos (.svg, .png) for embedding in websites using paynow payments gateway 
